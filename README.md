@@ -79,7 +79,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ArielleRamgoolie/ArielleRamgoolie/output/snake.svg" alt="Snake animation" />
-
-###
