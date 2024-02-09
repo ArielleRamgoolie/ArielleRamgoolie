@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/arielleramgoolie/" target="_blank">
@@ -24,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Arielle Ramgoolie based in Toronto, Canada<br><br>- 🔭 I’m currently in my 4th year at University of Toronto<br>- 📚 I'm currently specializing in Software Engineering<br>- ⚡ In my free time I leetcode and cheerlead</p>
+<p align="left">I'm Arielle Ramgoolie based in Toronto, Canada<br><br>- 🔭 I’m currently in my 4th year at University of Toronto<br>- 📚 I'm specializing in Software Engineering<br>- ⚡ In my free time I leetcode and cheerlead</p>
 
 ###
 
@@ -66,6 +61,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original-wordmark.svg" height="40" alt="vue logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-plain-wordmark.svg" height="40" alt="vue logo"  />
+  <img width="12" />
 </div>
 
 ###
