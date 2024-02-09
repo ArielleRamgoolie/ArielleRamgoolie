@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Arielle Ramgoolie based in Toronto, Canada<br><br>🔭 I’m currently in my 4th year at University of Toronto<br> 📚 I'm specializing in Software Engineering<br> ⚡ In my free time I leetcode and cheerlead</p>
+<p align="left">I'm Arielle Ramgoolie based in Toronto, Canada<br><br>🔭 I’m currently in my 4th year at University of Toronto, and I work at DashHudson!<br> 📚 I'm specializing in Software Engineering<br> ⚡ In my free time I leetcode and cheerlead</p>
 
 ###
 
